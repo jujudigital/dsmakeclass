@@ -4,7 +4,10 @@ A simple Node.js based command-line timesaving utility for scaffolding a DS clas
 
 ## Installation
 
-`npm install -g dsmakeclass`
+Clone the this repo and `cd` into the project folder then run the following command:
+
+`npm install -g`
+
 
 ## Usage
 
