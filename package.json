@@ -7,5 +7,8 @@
   "license": "MIT",
   "bin": {
     "dsmakeclass": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^2.9.0"
   }
 }

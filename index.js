@@ -3,7 +3,7 @@ var program = require('commander');
 
 function createTemplate(className){
   className = className || "";
-  console.log('ClassName:  %s', className);
+  console.log('Made:  %s', className);
 
   var outFile = "./" + className + ".js";
 
