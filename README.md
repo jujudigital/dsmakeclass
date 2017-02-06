@@ -14,16 +14,6 @@ Download the latest release, unpack and `cd` into the root and then run the foll
 In the source folder that you want a new class simply call: `dsmakeclass clasName` and it will add a new class based on a structured template.
 
 
-# Release notes
-## Current version
-0.1.0
-
-### Fixed/Added in this version
-* Initial release
-
-## Change log
--
-
 # Contributing
 
 If you want to make this tool better then please go ahead.
