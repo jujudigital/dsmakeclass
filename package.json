@@ -1,10 +1,14 @@
 {
   "name": "dsmakeclass",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A command-line tool for scaffolding a DS Class file.",
   "main": "index.js",
   "author": "Alex Adams <alex@jujudigital.com>",
   "license": "MIT",
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/jujudigital/dsmakeclass.git"
+  },
   "bin": {
     "dsmakeclass": "./index.js"
   },
