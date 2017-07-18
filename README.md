@@ -1,6 +1,6 @@
 # DS Make Class
 
-A simple Node.js based command-line timesaving utility for scaffolding a DS class file.
+A simple Node.js based command-line timesaving utility for templating a DS class file.
 
 ## Installation
 
