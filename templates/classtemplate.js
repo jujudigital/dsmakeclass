@@ -7,8 +7,7 @@
  * Brief Description
  *
  * @requires
- * @version 0.0.1
- * @since v0.0.1 Created
+ * @since v0.0.1 
  *
  */
 function {ClassName}(){
@@ -16,7 +15,7 @@ function {ClassName}(){
     /**********************************************************************
      * Private attributes                                                 *
      *********************************************************************/
-     var p_class_name = "{ClassName}";
+     var m_class_name = "{ClassName}";
 
 
     /**********************************************************************
@@ -29,7 +28,7 @@ function {ClassName}(){
      * @private
      */
     var _init = function() {
-        console.log(p_class_name+".Init");
+        console.log(m_class_name+".Init");
 
     };
 
